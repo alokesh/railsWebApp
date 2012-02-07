@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe "Static pages" do
+describe "Static static_pages" do
 
   let(:base_title) { "Ruby on Rails Tutorial Sample App" }
 
